@@ -6,7 +6,7 @@ Depends: firmware (>11.0), mobilesubstrate, applist, bz.jed.tweakcompatible, com
 Architecture: iphoneos-arm
 Filename: ./debs/com.tweaksetups.glyph_1.0.2-1_iphoneos-arm.deb
 Size: 4456
-MD5sum: 1e92164b0c3d13a3aa05f327e20643e6
+MD5sum: 8553be33083d3f388738dabdc546b28d
 Description: Glyph Setup, no Paid Tweaks Required
 Name: Glyph Setup
 Author: BotLove <botlove282@gmail.com>
