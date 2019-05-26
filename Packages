@@ -1,14 +1,13 @@
-Package: (com.yourname.packagename)
-Name: (Tweak Name) 
-Version: (Version Number)
-Size: (Size in Bytes)
+Package: com.tweaksetups.glyph
+Version: 1.0.0
+Section: Setups
+Maintainer: BotLove (u/BotLove282)
+Depends: firmware (>11.0), mobilesubstrate
 Architecture: iphoneos-arm
-Description: (Tweak Description)
-Maintainer: (Name) <email@provider.com>
-Author: (Name) <email@provider.com>
-Section: (Cydia Section)
-MD5sum:
-SHA1sum:
-SHA256sum:
-Filename: debs//(Tweak Name).deb
-
+Filename: ./debs/com.supermamon.newpackage_2.0.0-1_iphoneos-arm.deb
+Size: 4456
+MD5sum: 1e92164b0c3d13a3aa05f327e20643e6
+Description: Glyph Setup, no Paid Tweaks Required
+Name: Glyph Setup
+Author: BotLove <botlove282@gmail.com>
+Depiction: https://supermamon.github.io/Reposi3/depictions/?p=com.tweaksetups.glyph
