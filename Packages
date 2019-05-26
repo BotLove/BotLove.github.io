@@ -1,10 +1,10 @@
 Package: com.tweaksetups.glyph
-Version: 1.0.0-1
+Version: 1.0.1-1
 Section: Tweaks
 Maintainer: BotLove (u/BotLove282)
 Depends: firmware (>11.0), mobilesubstrate, applist, bz.jed.tweakcompatible, com.aditkamath.flame, com.captinc.batchomatic, com.chilaxan.cuboid, com.cj81499.cjglyphs, com.evynw.repoicons, com.evynw.sbew3, com.furoso.centyfish, com.idevicehacked.miscsettings, com.junesiphone.xeninfo, com.karimo299.leavemealone, com.matchstic.xenhtml, com.parrotgeek.nobetaalert, com.rpetrich.rocketbootstrap, com.sassoty.pulltorespring, com.spark.libsparkapplist, com.spark.snowboard, com.tigisoftware.filza64bit, com.tokems.glyphs, gawk, io.ominousness.ass, jp.ashikase.libpackageinfo, jp.ashikase.techsupport, me.nepeta.libcolorpicker, me.nepeta.libmitsuha, me.nepeta.libnepeta, me.nepeta.mitsuhainfinity, me.nepeta.notifica, net.angelxwind.karenlocalizer, net.angelxwind.karenprefs, net.angelxwind.preferenceorganizer2, p7zip, preferenceloader, rsync, unrar, unzip, ws.hbang.common, zip
 Architecture: iphoneos-arm
-Filename: ./debs/com.tweaksetups.glyph_1.0.0-1_iphoneos-arm.deb
+Filename: ./debs/com.tweaksetups.glyph_1.0.1-1_iphoneos-arm.deb
 Size: 4456
 MD5sum: 1e92164b0c3d13a3aa05f327e20643e6
 Description: Glyph Setup, no Paid Tweaks Required
