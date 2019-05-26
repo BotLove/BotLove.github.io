@@ -22,23 +22,20 @@
 	</descriptionlist>
 	<screenshots>
 		<screenshot>
-			<description>This is a description for screenshot 1. It's Cydia!</description>
-			<image>cydia.jpg</image>
+			<description>Lockscreen</description>
+			<image>shot1.jpg</image>
 		</screenshot>		
 		<screenshot>
-			<description>This is a description for screenshot 2. It's another Cydia!</description>
-			<image>cydia.jpg</image>
+			<description>Homescreen</description>
+			<image>dhot2.jpg</image>
 		</screenshot>		
 	</screenshots>
 	<changelog>
-		<change>Second release</change>
-		<change>It has feature 1</change>
-		<change>It has feature 2</change>
 	</changelog>
 	<links>
 		<link>
-			<name>/r/jailbreak</name>
-			<url>https://www.reddit.com/r/jailbreak</url>
+			<name>/r/iosthemes</name>
+			<url>https://www.reddit.com/r/iOSthemes/</url>
 			<iconclass>fa fa-reddit</iconclass>
 		</link>
 	</links>
