@@ -14,27 +14,22 @@
 	<descriptionlist>
 		<description>iOS Glyph Setup, modern and Simple </description>
 		<description>Glyph Theme misses quite some Icons.</description>
-		<description><![CDATA[
-		You can also have<br/> 
-		a multi-line item.
-		]]>
-		</description>
 	</descriptionlist>
 	<screenshots>
 		<screenshot>
 			<description>Lockscreen</description>
-			<image>shot1.jpg</image>
+			<image>screenshots/shot1.jpg</image>
 		</screenshot>		
 		<screenshot>
 			<description>Homescreen</description>
-			<image>dhot2.jpg</image>
+			<image>screenshots/shot2.jpg</image>
 		</screenshot>		
 	</screenshots>
 	<changelog>
 	</changelog>
 	<links>
 		<link>
-			<name>/r/iosthemes</name>
+			<name>/r/iosThemes</name>
 			<url>https://www.reddit.com/r/iOSthemes/</url>
 			<iconclass>fa fa-reddit</iconclass>
 		</link>
