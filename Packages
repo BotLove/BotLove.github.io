@@ -1,6 +1,6 @@
 Package: com.tweaksetups.glyph
 Version: 1.0.0-1
-Section: Setups
+Section: Tweaks
 Maintainer: BotLove (u/BotLove282)
 Depends: firmware (>11.0), mobilesubstrate
 Architecture: iphoneos-arm
@@ -10,4 +10,4 @@ MD5sum: 1e92164b0c3d13a3aa05f327e20643e6
 Description: Glyph Setup, no Paid Tweaks Required
 Name: Glyph Setup
 Author: BotLove <botlove282@gmail.com>
-Depiction: https://supermamon.github.io/Reposi3/depictions/?p=com.tweaksetups.glyph
+Depiction: https://botlove.github.io/depictions/?p=com.tweaksetups.glyph
