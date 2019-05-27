@@ -43,5 +43,6 @@ SHA256: b04be86ca4d6c7438de1928a589403a09d7db8bbe9eee7f09c64a427ed028a29
 Section: Setups
 Description: Batch-install your tweaks for your setup
 Author: BotLove
-Name: Glyph
+Depiction: https://supermamon.github.io/Reposi3/depictions/?p=com.tweaksetups.glyph
+Name: Glyph Setup
 
