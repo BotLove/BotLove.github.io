@@ -1,12 +1,15 @@
 <package>
 	<id>com.tweaksetups.glyph</id>
 	<name>Glyph Setup</name>
-	<version>1.0.0</version>
+	<version>1.0.0-1</version>
 	<compatibility>
 		<firmware>
 			<miniOS>11.0</miniOS>
 		</firmware>
 	</compatibility>
+	<dependencies>
+		<package>mobilesubstrate</package>
+	</dependencies>
 	<descriptionlist>
 		<description>A Simple Glyph Themed Setup.</description>
 		<description><![CDATA[
