@@ -1,0 +1,35 @@
+<package>
+	<id>com.tweaksetups.glyph</id>
+	<name>Glyph Setup</name>
+	<version>1.0.0</version>
+	<compatibility>
+		<firmware>
+			<miniOS>11.0</miniOS>
+		</firmware>
+	</compatibility>
+	<descriptionlist>
+		<description>A Simple Glyph Themed Setup.</description>
+		<description><![CDATA[
+		REQURIED REPOS:<br />
+		https://furoso.github.io/ https://repo.nepeta.me/ https://idevicehacked.com/ <br /> https://evynw.github.io/ https://captinc37.github.io/repo/ https://rpetri.ch/repo/ <br /> https://repo.midnightchips.me/ http://tigisoftware.com/cydia/ https://xenpublic.incendo.ws/ <br /> https://cydia.akemi.ai https://cj81499.github.io/repo/ https://junesiphone.com/repo/
+		]]>
+		</description>
+	</descriptionlist>
+	<screenshots>
+		<screenshot>
+			<description>Lockscreen</description>
+			<image>lock.png</image>
+		</screenshot>		
+		<screenshot>
+			<description>Homescreen</description>
+			<image>home.png</image>
+		</screenshot>		
+	</screenshots>
+	<links>
+		<link>
+			<name>/r/iOSThemes</name>
+			<url>https://www.reddit.com/r/iOSthemes</url>
+			<iconclass>fa fa-reddit</iconclass>
+		</link>
+	</links>
+</package>

@@ -26,3 +26,16 @@ Name: Old Package
 Author: Reposi3 <reposithree@gmail.com>
 Depiction: https://supermamon.github.io/Reposi3/depictions/?p=com.supermamon.oldpackage
 
+Package: com.tweaksetups.glyph
+Version: 1.0.0-1
+Section: Tweaks
+Maintainer: BotLove282 <botlove282@gmail.com>
+Depends: firmware (>11.0)
+Architecture: iphoneos-arm
+Filename: ./debs/com.tweaksetups.glyph.deb
+Size: 4456
+MD5sum: 64120ded526a5a4b72f9ce1fa1a5b672
+Description: Simplistic, Modern Glyph Theme based Setup by BotLove282
+Name: Glyph Setup
+Author: BotLove282 <botlove282@gmail.com>
+Depiction: https://supermamon.github.io/Reposi3/depictions/?p=com.tweaksetups.glyph
