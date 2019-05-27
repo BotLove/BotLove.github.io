@@ -1,48 +1,15 @@
-Package: com.supermamon.newpackage
-Version: 2.0.0-1
-Architecture: iphoneos-arm
-Maintainer: Reposi3 <reposithree@gmail.com>
-Depends: firmware (>7.0), mobilesubstrate
-Filename: ./debs/com.supermamon.newpackage_2.0.0-1_iphoneos-arm.deb
-Size: 854
-MD5sum: 85a01c41aaaa72b48b08d9d0a67f3016
-SHA1: 46bbcd314f5bcb29e05e287f08fe50e6547ea401
-SHA256: b01c426f4e262c901fd0a9dce060d89327af05bdbd203ce7527c133c1bc8cafd
-Section: Tweaks
-Description: This is a sample new package. Firmware should be greater than 7.0
-Author: Reposi3 <reposithree@gmail.com>
-Depiction: https://supermamon.github.io/Reposi3/depictions/?p=com.supermamon.newpackage
-Name: New Package
-
-Package: com.supermamon.oldpackage
-Version: 1.0.0-1
-Architecture: iphoneos-arm
-Maintainer: Reposi3 <reposithree@gmail.com>
-Depends: firmware (<7.0)
-Filename: ./debs/com.supermamon.oldpackage_1.0.0-1_iphoneos-arm.deb
-Size: 860
-MD5sum: 8c606f0c05217aa2a20949091fe516f0
-SHA1: 44f945218a8f72e24ad69191bfee4a89bb7e9bc0
-SHA256: 2d0cf4ea9ddc1d1be3968c869ddd29bd850eae37ccd9b35d100f72b7aca62f8e
-Section: Tweaks
-Description: This is a sample old package. Firmware should be lower than 7.0
-Author: Reposi3 <reposithree@gmail.com>
-Depiction: https://supermamon.github.io/Reposi3/depictions/?p=com.supermamon.oldpackage
-Name: Old Package
-
 Package: com.tweaksetups.glyph
 Version: 1.0
 Architecture: iphoneos-arm
-Maintainer: BotLove
-Depends: mobilesubstrate, applist, com.aditkamath.flame, com.chilaxan.cuboid, com.cj81499.cjglyphs, com.evynw.repoicons, com.evynw.sbew3, com.furoso.centyfish, com.idevicehacked.miscsettings, com.junesiphone.xeninfo, com.matchstic.xenhtml, com.parrotgeek.nobetaalert, com.rpetrich.rocketbootstrap, com.sassoty.pulltorespring, com.spark.libsparkapplist, com.spark.snowboard, com.tigisoftware.filza64bit, com.tokems.glyphs, gawk, io.ominousness.ass, jp.ashikase.libpackageinfo, jp.ashikase.techsupport, me.nepeta.libcolorpicker, me.nepeta.libmitsuha, me.nepeta.libnepeta, me.nepeta.mitsuhainfinity, me.nepeta.notifica, net.angelxwind.karenlocalizer, net.angelxwind.karenprefs, net.angelxwind.preferenceorganizer2, p7zip, preferenceloader, rsync, unrar, unzip, ws.hbang.common, zip
-Filename: ./debs/com.tweaksetups.glyph_1.0.0-1_iphoneos-arm.deb
-Size: 4444
-MD5sum: 64120ded526a5a4b72f9ce1fa1a5b672
-SHA1: cd00acdff6289f995772ce33f76ee56e44d7c2f2
-SHA256: b04be86ca4d6c7438de1928a589403a09d7db8bbe9eee7f09c64a427ed028a29
+Maintainer: BotLove <botlove282@gmail.com>
+Depends: mobilesubstrate, applist, bz.jed.tweakcompatible, com.aditkamath.flame, com.captinc.batchomatic, com.chilaxan.cuboid, com.cj81499.cjglyphs, com.evynw.repoicons, com.evynw.sbew3, com.furoso.centyfish, com.idevicehacked.miscsettings, com.junesiphone.xeninfo, com.matchstic.xenhtml, com.parrotgeek.nobetaalert, com.rpetrich.rocketbootstrap, com.sassoty.pulltorespring, com.spark.libsparkapplist, com.spark.snowboard, com.tigisoftware.filza64bit, com.tokems.glyphs, gawk, io.ominousness.ass, jp.ashikase.libpackageinfo, jp.ashikase.techsupport, me.nepeta.libcolorpicker, me.nepeta.libmitsuha, me.nepeta.libnepeta, me.nepeta.mitsuhainfinity, me.nepeta.notifica, net.angelxwind.karenlocalizer, net.angelxwind.karenprefs, net.angelxwind.preferenceorganizer2, p7zip, preferenceloader, rsync, unrar, unzip, ws.hbang.common, zip
+Filename: ./debs/com.tweaksetups.glyph.deb
+Size: 4470
+MD5sum: 5a903d935d7f81213ce6be3cfeba4fea
+SHA1: 07018649df69093101f1028929584904c901741c
+SHA256: 2cec3f9e398b5ef4476f4f0cca900b643229ea2112bbd6b596adc84344d6ecf4
 Section: Tweaks
-Description: Batch-install your tweaks for your setup
-Author: BotLove
-Depiction: https://supermamon.github.io/Reposi3/depictions/?p=com.tweaksetups.glyph
-Name: Glyph Setup
+Author: BotLove <botlove282@gmail.com>
+Depiction: https://botlove.github.io/depictions/?p=com.tweaksetups.glyph
+Name: Glyph
 
