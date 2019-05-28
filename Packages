@@ -13,3 +13,19 @@ Author: BotLove <botlove282@gmail.com>
 Depiction: https://botlove.github.io/depictions/?p=com.tweaksetups.glyph
 Name: Glyph
 
+Package: com.tweaksetups.mountain
+Version: 1.0
+Architecture: iphoneos-arm
+Maintainer: BotLove282 <botlove282@gmail.com>
+Depends: mobilesubstrate, applist, bz.jed.tweakcompatible, com.aditkamath.flame, com.chilaxan.cuboid, com.evynw.ewwdgtpack6, com.furoso.centyfish, com.junesiphone.xeninfo, com.matchstic.xenhtml, com.r333d.cylinder, com.rpetrich.rocketbootstrap, com.spark.snowboard, eu.bednarz.eyeris, gawk, jp.ashikase.libpackageinfo, jp.ashikase.techsupport, me.nepeta.libcolorpicker, me.nepeta.libnepeta, me.nepeta.nereid, me.nepeta.notifica, org.thebigboss.blurrybadges, p7zip, preferenceloader, unrar, unzip, ws.hbang.common, zip
+Filename: ./debs/com.tweaksetups.mountain.deb
+Size: 4488
+MD5sum: 6991af4bd0602bb171cc8128694fedca
+SHA1: 0667cd9375ed92da8f29919748b374be0f435e34
+SHA256: 4cb8c96f29e20e0d067b372cdb821a619cbae8909a842b03a304c0bac84ba6e2
+Section: Tweaks
+Description: Simple Mountain BG Setups
+Author: BotLove282
+Depiction: https://botlove.github.io/depictions/?p=com.tweaksetups.mountain
+Name: Mountain
+
